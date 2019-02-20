@@ -6,4 +6,7 @@
 ## Pre-requisites : 
 ### Flask
 ### Python3
-## 
+## Screenshots :
+
+<img src="/1.jpg">
+<img src="/2.jpg">
